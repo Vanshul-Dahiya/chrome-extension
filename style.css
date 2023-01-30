@@ -1,0 +1,16 @@
+body {
+  width: 260px;
+  height: 150px;
+  background-color: black;
+  color: lightblue;
+  display: flex;
+  justify-content: center;
+}
+#jokeEl {
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  padding: 10px;
+  border-radius: 13px;
+  border: 1px solid lightcyan;
+  box-sizing: border-box;
+}
